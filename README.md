@@ -10,3 +10,15 @@ Course material for the Introduction to Programming course and the Advanced Cour
     3. More about the variables
     4. Arithmetic operations
     5. Contidional statements 
+
+* Part 2
+    1. Programming terminology
+    2. More conditionals
+    3. Combining condtions
+    4. Simple loops
+
+* Part 3 
+    1. Loops with conditions
+    2. Working with strings
+    3. More loops 
+    4. Defining functions
